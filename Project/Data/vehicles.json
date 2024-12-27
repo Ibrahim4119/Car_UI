@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Toyota Camry",
+        "type": "Sedan",
+        "price": "25000",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/2025-toyota-camry-xse-awd-123-66993cc94cc40.jpg?crop=0.676xw:0.506xh;0.101xw,0.399xh&resize=1200:*"
+    },
+    {
+        "name": "Honda Civic",
+        "type": "Sedan",
+        "price": "22000",
+        "image": "https://media.ed.edmunds-media.com/honda/civic/2025/oem/2025_honda_civic_sedan_si_fq_oem_1_1600.jpg"
+    }
+]
+
